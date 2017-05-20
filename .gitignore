@@ -1,5 +1,16 @@
-*
-!README.md
-!.gitignore
+#*
+#!README.md
+#!.gitignore
+#!*.c
+#src/*
+#src/*
+#!src/*/*.c
+#---
+#mask covers all...
+#*
+#**
+#---
+#hello
+#a.out
+*.*
 !*.c
-!src
