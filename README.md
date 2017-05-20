@@ -1,3 +1,3 @@
 # cMySketches
 
-This repo contains simple C programs
+This repo contains simple C programs.
